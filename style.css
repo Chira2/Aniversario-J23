@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #386aff;
+}
+
+p {
+  color: #ffffff;
+  font-family: "Comic Sans MS", Times, serif;
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+}
+
+img {
+  height: 180px;
+  margin: 30px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+.mensaje p {
+  font-family: 'Courier New', Courier, monospace;
+  color: yellow;
+}
+
+  img{
+    height:120px ;
+    margin: 30px;
+  }
+    div{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  .pastel img{
+    margin: 30px;
+    height: 500px;
+  }
+
+
+
+    
